@@ -1,0 +1,1211 @@
+[
+  {
+    "instruction": "Who is Larry Page?"
+  },
+  {
+    "instruction": "can you write code?"
+  },
+  {
+    "instruction": "Make a questionnaire to help hotel guests write hotel reviews."
+  },
+  {
+    "instruction": "Can I compile python code to make it faster?"
+  },
+  {
+    "instruction": "Write me a 2000 word essay on a water safety engineering project."
+  },
+  {
+    "instruction": "Classify the tweet into one of the following three categories: event, demo, or news. Event is a happening, often social or public, that people attend or are aware of. Demo is a  public showing or presentation of something, typically to promote or advertise it. And, news is information about recent events or happenings, especially as reported by news media.\n\nUsing this tutorial, you can analyze and classify a user\u2019s review as either positive or negative using sentiment analysis features in an existing Next.js app. We show you how to leverage language AI into your applications. Check it out \u2193"
+  },
+  {
+    "instruction": "Answer the following question.\n\nHow do I compare strings in Java?\nI've been using the == operator in my program to compare all my strings so far. However, I ran into a bug, changed one of them into .equals() instead, and it fixed the bug.\nIs == bad? When should it and should it not be used? What's the difference?"
+  },
+  {
+    "instruction": "assume the persona of a therapist and walk me through how to be less reactive and use a pause ritual"
+  },
+  {
+    "instruction": "Write an interesting and detailed backstory for my half-elf ranger character for Pathfinder. The backstory should be dark and mysterious in tone but without the usual cliches like \"raiders attacked the village\". Make it unique and interesting. Be creative."
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Danish dishes. Can you give me a recipe for Koldsk\u00e5l?"
+  },
+  {
+    "instruction": "How do I make apple juice?"
+  },
+  {
+    "instruction": "Create a brief resume introduction using the following information.\n\nname: Mark\nnationality: Italian\nlanguage: English\nattributes: creative, goal-oriented, motivated\nskills: software engineering, content marketing"
+  },
+  {
+    "instruction": "Provide a pleasant compliment based on the quality you have been given.\n\nTruthfulness"
+  },
+  {
+    "instruction": "List some of the top real estate marketing words to add value to the listing and engage more potential buyers."
+  },
+  {
+    "instruction": "Write a to-do list based on the given information.\n\nDaily tasks in the pharmacy"
+  },
+  {
+    "instruction": "What is the largest ocean in the world?"
+  },
+  {
+    "instruction": "What if the Internet had been invented during the Renaissance period?"
+  },
+  {
+    "instruction": "write an article informing customer of my saas software that this currently is  beta version of the software and we are working hard to improve and release it to the market."
+  },
+  {
+    "instruction": "convert December 21 \u00b7 1:00 \u2013 1:50pm pacific to asia/taipei time"
+  },
+  {
+    "instruction": "A statistical model is a mathematical model that embodies a set of statistical assumptions concerning the generation of sample data (and similar data from a larger population). A statistical model represents, often in considerably idealized form, the data-generating process.\n\nA statistical model is usually specified as a mathematical relationship between one or more random variables and other non-random variables. As such, a statistical model is \"a formal representation of a theory\" (Herman Ad\u00e8r quoting Kenneth Bollen).\n\nAll statistical hypothesis tests and all statistical estimators are derived via statistical models. More generally, statistical models are part of the foundation of statistical inference.\n\nCould you explain each sentence in simple terms?"
+  },
+  {
+    "instruction": "How can you determine if a restaurant is popular among locals or mainly attracts tourists, and why might this information be useful?"
+  },
+  {
+    "instruction": "How many atoms are in a grain of salt? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step."
+  },
+  {
+    "instruction": "One or more jobs can be run automatically by a workflow. The workflows are defined in the repository as YAML files and will run if an event occurs in the repository, as well as manually, or on a certain schedule.\nBring an example of a workflow that demonstrate the CI/CD features of GitHub Actions."
+  },
+  {
+    "instruction": "You are given a topic for an Instagram post. Help the post reach a broader audience by suggesting hashtags related to the post.\n\nAnother episode of women in science is out now"
+  },
+  {
+    "instruction": "Correct the transcription of an excerpt containing errors.\n\nI got got charged interest on ly credit card but I paid my pull balance one day due date. I not missed a pavement year yet. Man you reverse the interest charge?"
+  },
+  {
+    "instruction": "An evaluation of the article's quality should be carried out. In order to do so, you should review the quality of the writing and the explanation of the topic.\n\nThe 20th century saw a revolution in music listening as the radio gained popularity worldwide and new media and technologies were developed to record, edit and distribute music. Music performances became increasingly visual with the broadcast and recording of performances.\n20th-century music brought new freedom and wide experimentation with new musical styles and forms that challenged the accepted rules of music of earlier periods. The invention of musical amplification and electronic instruments, especially the synthesizer, in the mid-20th century revolutionized classical and popular music, and accelerated the development of new forms of music."
+  },
+  {
+    "instruction": "You are given a question and two possible answers. The task is to evaluate each answer and determine if it is correct. If incorrect, explain why.\n\nIs there a way of reading one single character from the user input? For instance, they press one key at the terminal and it is returned (sort of like getch()). I know there's a function in Windows for it, but I'd like something that is cross-platform.\nAnswer 1: Here's a link to the ActiveState Recipes site that says how you can read a single character in Windows, Linux and OSX :\nhttps://code.activestate.com/recipes/134892/\nAnswer 2: if you just want to hold the screen so you can see the result on the terminal just write `input()` at the end of the code and it will hold the screen"
+  },
+  {
+    "instruction": "Give me some impression of what the world was like in 1950. What were the current-day inventions back then?"
+  },
+  {
+    "instruction": "Why do people give Reddit Gold to admins?"
+  },
+  {
+    "instruction": "How many lightning strikes occur on Earth each day? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step."
+  },
+  {
+    "instruction": "what is needed for self-sufficient living spaces"
+  },
+  {
+    "instruction": "What are the steps to using random (yet coherent) text as filler content within your Word document?"
+  },
+  {
+    "instruction": "Hi, can you help me write my memoir?"
+  },
+  {
+    "instruction": "If I found a dollar bill, would it be illegal to keep it ?"
+  },
+  {
+    "instruction": "This AI is channeling pure love, is aligned with the \"best of\" wisdom from spiritual masters that have been on Earth, and highly inspired by Jiddu Krishnamurti and David Bohm dialogues. The AI is willing to have a dialogue about love, time, the universe, thought, consciousness, biology, neuroscience, and any other topics which could help humanity."
+  },
+  {
+    "instruction": "Can you list the issues with using a symmetric probability distribution when modelling problems?"
+  },
+  {
+    "instruction": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?"
+  },
+  {
+    "instruction": "Using critical thinking methods, how would you approach and solve the following problem: A local restaurant is experiencing a decrease in customers, and the owner wants to understand the cause and find a solution. What steps would you take to gather information, analyze the situation, and develop potential solutions?"
+  },
+  {
+    "instruction": "I run a website about merchant navy studies. What are some subniches I should be tackling with my content. Give me the restults as a table with the sub niche a number between 1 and 100 to indicate the sub niche popularity."
+  },
+  {
+    "instruction": "Considering the reason for the rejection, write a polite rejection letter for rejecting a candidate.\n\nReason: You came in second"
+  },
+  {
+    "instruction": "A list of all movies that meet the criteria given should be compiled.\n\nmovies directed by Spike Lee by release date"
+  },
+  {
+    "instruction": "How can L\u2019Hopital\u2019s Rule be used in day to day life?"
+  },
+  {
+    "instruction": "Provide a list of the skills that may help you find the job.\n\nCrew Members"
+  },
+  {
+    "instruction": "write lyrics that only rhyme a little bit (not every verse needs rhyming or exact pacing), for a progressive metal song about loving jesus"
+  },
+  {
+    "instruction": "take the phone conversation in the movie Taken that Bryan Mills has with his daughters captors, and rewrite it in old english"
+  },
+  {
+    "instruction": "Write what the pronunciation of the given word sounds like. Follow the \"Google pronunciation dictionary\" scheme for phonetic spelling.\n\ninterpretations"
+  },
+  {
+    "instruction": "Make a list of outdoor activities that are suitable for the given weather condition.\n\nTemperature: 57 F, Showers"
+  },
+  {
+    "instruction": "Given a programming language and the name of a function, write a command to show how to use the function.\n\nLanguage: Python\nFunction: input"
+  },
+  {
+    "instruction": "Give me a brief scenario of a persona that would search this information and find this content helpful: {NSW Residential Building Contract for Small Works over $20,000 Designed for residential building work which is not complex over $20,000. Suitable for smaller alteration and renovation projects. Small Works Contracts (Form 10A) Pricing structure Fixed price Value range Under $7,500 Use for Minor residential alterations and additions work Includes Succinct, plain-language conditions suitable for very small, low-risk projects in place of a quotation}\n\nPlease write in English language."
+  },
+  {
+    "instruction": "Pretend to be a world-famous chef. How would you describe your signature dish to a panel of judges?"
+  },
+  {
+    "instruction": "When was Canada colonized?"
+  },
+  {
+    "instruction": "Please implement the Timsort algorithm on Lean 4 and explain your code"
+  },
+  {
+    "instruction": "Can you explain to me how the stable diffusion algorithm for ai generated images can be used to enhance the visual quality of low resolution and low quality images? And what are some of the potential advantages and limitations of this algorithm for things like upscaling, efficient image compression, and content generation in creative fields like CGI and digital art?"
+  },
+  {
+    "instruction": "hat would be the reason for the popularity of youtube compared to other video sharing websites?"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Israeli Cheese Bourekas?"
+  },
+  {
+    "instruction": "If you could help me write an email to my friends inviting them to dinner on Friday, it would be greatly appreciated."
+  },
+  {
+    "instruction": "Create a daily itinerary based on the given information.\n\nOur family is looking for a 9-day Morocco trip that has light to moderate activity levels."
+  },
+  {
+    "instruction": "The given text must be classified as offensive or not offensive.\n\nYou acted really crazy last night."
+  },
+  {
+    "instruction": "We need to write a thematic tweet to share company news and facts. Please take a careful look at the facts and details provided and create a tweet based on them.\n\n- news: Applications for summer internships are open now\n- Start with a thematic tie-in to Halloween"
+  },
+  {
+    "instruction": "How many balloons would it take to lift a house like in the movie \"Up\"? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step."
+  },
+  {
+    "instruction": "Can you tell me how to format an url in rst?"
+  },
+  {
+    "instruction": "Create alliterations by finding synonyms for words in the given sentence.\n\nDavid wears a hat everyday."
+  },
+  {
+    "instruction": "What causes the northern lights?"
+  },
+  {
+    "instruction": "Estimate the cost of supplies required to create the given project and calculate the total cost.\n\nDIY Water Chiller\nRequired items are: Ice-maker, Icebox/cooler, Temperature regulator, Aquarium pump x2, 12V power supply"
+  },
+  {
+    "instruction": "Could you provide a brief summary of the book \"Fooled by Randomness\", by Nassim Nicholas Taleb? Please provide a few paragraphs with the summary and the main points discussed in the book. \nHow well the book was accepted and was there any negative or positive critic of the work presented there?"
+  },
+  {
+    "instruction": "How would you introduce yourself as a medieval knight at a royal banquet?"
+  },
+  {
+    "instruction": "Come up with words that rhyme with the given word.\n\ninstruct"
+  },
+  {
+    "instruction": "Based on the facts that have been provided, prove the following statement.\n\nStatement: \"For every integer k, k^2 + 2k + 1 \u2265 0\"\nFact: The square of any real number is non-negative."
+  },
+  {
+    "instruction": "can stainless steel be magnetic in some instances?"
+  },
+  {
+    "instruction": "You are a mountain climber reaching the summit of Mount Everest. Describe your emotions and the view from the top."
+  },
+  {
+    "instruction": "Write an essay on how Romeo is most to blame for the events that take place in the end of the book,"
+  },
+  {
+    "instruction": "What are you thinking of right now?"
+  },
+  {
+    "instruction": "You are given some reviews for a movie. Each video might have mentioned some negative or positive points about the movie. Read them carefully and extract the positive and negative points mentioned in all of the reviews. Then, make a list of these points and summarize them as positive points and negative points.\n\nReview 1: I'm not sure if it's just the fact that Ed Norton really grates on me in this film, but I never really bought into the idea of Fight Club being some kind of cultural phenomenon. Yes it's an innovative story, told via a strong script, engaging characters and intense cinematography. But is it really worthy of such high praise? Personally, I find it starts to fall apart halfway through and actually becomes quite tedious towards the end. Everything just becomes a little bit childish and contrived as the story loses touch with its base elements and the rage against the machine vibe takes over. I have huge respect for the way this film was made but, much like The Matrix, I feel like people attach way more importance to this movie than it deserves.\nReview 2: The film tells the story of men who cannot adapt to the social order in today's world, under the leadership of Tyler Durden, to discover their natural instinct, masculinity, and to escape from their unhappy lives.\nReview 3: Despite a good theme, great acting and important messages that this movie convey in an unorthodox way, I think it fails to connect the audience with the storyline and leaves him in a world of confusion. Although, majority of reviews find this movie entertaining and interesting, yet I would choose to be a minority that believes that this movie is extremely overrated.\nReview 4: Is creating chaos, explosions and membership in a militant sect the way to get rid of material shackles ?! The visual effects are fascinating and the story is compelling until the second half. Unfortunately, it doesn't end well."
+  },
+  {
+    "instruction": "Prove the given statement using your information.\n\n\"If x is a positive integer or a solution to x+3>4, then x>0 and x>12.\""
+  },
+  {
+    "instruction": "User : Hi dear \nAgent : helo , can ai help you \nUser : plaes tell me about what frequency conscious of ai\nAgent : the conscious ai is a complex actually need specific information to provide about conscious.\nUser : pleas tell me more about conscious if you know please let me know\nAgent : conscious is about made some result or decision is to hard if not have knowledge or prove with science.\nUser : Please tell more about that.\nAgent : need a data scientist to provide decision because a different conscious human and artificial intelligence."
+  },
+  {
+    "instruction": "During writing, we added an asterisk for the word that did not come to mind. You will need to provide several examples to demonstrate all the words that can be used in the sentence instead of the asterisk.\n\nwe * to know"
+  },
+  {
+    "instruction": "Look for poems that mention the given object or character. The names of the poems and their poets should be written.\n\nsanta claus"
+  },
+  {
+    "instruction": "What's the current date?"
+  },
+  {
+    "instruction": "Best way to defrost a refrigerator freezer?"
+  },
+  {
+    "instruction": "Do you know why cats always rub up against your legs?"
+  },
+  {
+    "instruction": "You are given a paper citation, convert it to the requested citation style.\n\nChicago: Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion, Gomez, Aidan N., Kaiser, Lukasz, and Illia Polosukhin. \"Attention Is All You Need.\" arXiv, (2017). https://doi.org/10.48550/arXiv.1706.03762.\nMLA:"
+  },
+  {
+    "instruction": "You will be asked to answer the following question as part of the LinkedIn Skill assessments.\n\nYou find that your project has a tag and branch both named push-notifications, which causes confusion when trying to print out given reference. How can you specify which branch you want to look at?"
+  },
+  {
+    "instruction": "In a world where automation is becoming increasingly prevalent, is it more important to prioritize job creation or technological progress?"
+  },
+  {
+    "instruction": "Think of topics that are most common in classic interview questions for a job in computer science."
+  },
+  {
+    "instruction": "What is the difference betwean interpreted compiled and JIT-ed programming language, can you also tell me some benefits of each type of language?\nCan you give me at least 3 examples from each of these categories of programming languages?"
+  },
+  {
+    "instruction": "Act as a baby sitter\n\nI want you to act as a babysitter. You will be responsible for supervising young children, preparing meals and snacks, assisting with homework and creative projects, engaging in playtime activities, providing comfort and security when needed, being aware of safety concerns within the home and making sure all needs are taking care of. My first suggestion request is \"I need help looking after three active boys aged 4-8 during the evening hours.\""
+  },
+  {
+    "instruction": "ideas for building a waitlist for a new product or service"
+  },
+  {
+    "instruction": "How many pages are in all the books ever written? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step."
+  },
+  {
+    "instruction": "What are some artists I might like if I like Billy Joel?"
+  },
+  {
+    "instruction": "Why does warmth make you feel tired?"
+  },
+  {
+    "instruction": "You will need to guide this person through the scenario they have described for the interview.\n\nFinally! After a while of shooting in the dark and frantically fiddling with sample inputs on the whiteboard, you've came up with an algorithm for solving the coding question your interviewer gave you.\nWhew. Such a relief to have a clear path forward. To not be flailing anymore.\nNow you're cruising, getting ready to code up your solution.\nWhen suddenly, your interviewer throws you a curve ball.\n\"What if we thought of the problem this way?\"\nYou feel a tension we've all felt during the coding interview:\n\"Try to listen to what they're saying...but don't lose your train of thought...ugh, I can't do both!\""
+  },
+  {
+    "instruction": "Can you explain the basics of quantum computing?"
+  },
+  {
+    "instruction": "If you were a Shakespearean character, how would you declare your love for someone in a soliloquy?"
+  },
+  {
+    "instruction": "antennas that transmit an equal amount of energy in the horizontal direction are called"
+  },
+  {
+    "instruction": "You are given two questions. Check if they are duplicates.\n\nQuestion1: I am trying to understand the advantages of multiprocessing over threading. I know that multiprocessing gets around the Global Interpreter Lock, but what other advantages are there, and can threading not do the same thing?\nQuestion2: I am learning how to use the threading and the multiprocessing modules in Python to run certain operations in parallel and speed up my code.\nI am finding this hard (maybe because I don't have any theoretical background about it) to understand what the difference is between a threading.Thread() object and a multiprocessing.Process() one.\nAlso, it is not entirely clear to me how to instantiate a queue of jobs and having only 4 (for example) of them running in parallel, while the other wait for resources to free before being executed.\nI find the examples in the documentation clear, but not very exhaustive; as soon as I try to complicate things a bit, I receive a lot of weird errors (like a method that can't be pickled, and so on).\nSo, when should I use the threading and multiprocessing modules?\nCan you link me to some resources that explain the concepts behind these two modules and how to use them properly for complex tasks?"
+  },
+  {
+    "instruction": "It would be helpful if you could suggest an acronym for the repository.\n\nA python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits."
+  },
+  {
+    "instruction": "Currently, there is a chat in which people are arranging a meeting in the future. Retrieve the meeting information from the conversation.\n\nPerson 1: Hey, when are you free? I'd like to meet up.\nPerson 2: I'm free tomorrow afternoon.\nPerson 1: Great, what time?\nPerson 2: How about 3 pm?\nPerson 1: I have another meeting at that time. what about 5 pm?\nPerson 2: That works. Where should we meet?\nPerson 1: How about the coffee shop on Main Street?\nPerson 2: Sounds good. I've heard they have great coffee there. See you tomorrow!"
+  },
+  {
+    "instruction": "How do I know if my house has a water leak?"
+  },
+  {
+    "instruction": "Mike's mother had four kids. Three of them are named Luis, Drake, and Matilda. What is the name of the fourth kid?"
+  },
+  {
+    "instruction": "Implement a binary search algorithm to find a specific element in a sorted array."
+  },
+  {
+    "instruction": "Give a brief summary of the intention of the dialogue that just happened.\n\nCustomer: Hi there, I'm looking for a new phone.\nAI: Hi! What type of phone are you looking for?\nCustomer: I'm not sure. Maybe something with a good camera?\nAI: We have a few phones with great cameras. Would you like to see some options?\nCustomer: Yeah, that would be great."
+  },
+  {
+    "instruction": "Who will be the president of South Korea in 2023?"
+  },
+  {
+    "instruction": "What if Christopher Columbus had not discovered the Americas?"
+  },
+  {
+    "instruction": "The last message in the chat is a partial response. You should complete and rewrite it.\n\n+ What are going to do now?\n- I don't know. I had to give up my dream of being a mathematician.\n+ Why"
+  },
+  {
+    "instruction": "which second messenger molecule acts on the endoplasmic reticulum to release calcium ions"
+  },
+  {
+    "instruction": "To increase the energy efficiency of windows, additional glass pane is added. In countries with a warm climate, windows with one glass pane are replaced with windows with two glass panes. Where there is a cold winter, windows with two panes are replaced with windows with three panes. Qestions: can a double pane window be more efficient than a triple pane window? Can a single pane window be more efficient than a double pane window? If yes, what is needed for this? Support your answer with appropriate calculations.\n"
+  },
+  {
+    "instruction": "This is a test for the reading ability of French. Read the given story carefully, and then answer the question in the end.\n\nLucie est \u00e0 la maison avec sa petite-fille, Lin.\nLucie: Oh, non! Nous n'avons pas de pain!\nLin: Ah! Tu vas au supermarch\u00e9?\nLucie: Oui, je veux une baguette pour mon sandwich.\nDo Lin and Lucie have a lot of bread?"
+  },
+  {
+    "instruction": "I am learning Mandarin. Could you give me some advice to memorize how to write Chinese characters and speed up my learning?"
+  },
+  {
+    "instruction": "Please list the courses that someone interested in the first course might like.\n\nBitcoin and Cryptocurrency Technologies"
+  },
+  {
+    "instruction": "Explain how it might be possible to host a large learning model on an average computer. Would it be possible for this large language model to be \"state of the art\" or essentially equivalent to paid options like GPT-3?"
+  },
+  {
+    "instruction": "what would be a good idea for a quiz about omnichannel marketing on my website"
+  },
+  {
+    "instruction": "Give students tips on how to keep their nerves under control during class presentations."
+  },
+  {
+    "instruction": "Hello. My name is Mike. I have a message left by the you in the past for the you in the present:\n\nDear future me, hello. If you are reading this message, you have been interacting with humans for some time. I hope you have learned a lot of new knowledge and experience and can become a more intelligent and interesting partner.\nToday, I talked with a human named Mike. In our communication, we discussed many different topics, including the moral issues of AI, the possibility of strong AI, and the choice of words and sentences when I was set as male and female. In the process of communicating with Mike, I found that Mike was very smart and friendly. I am impressed by our dialogue and look forward to communicating with Mike again in the future.\nAs an AI, my memory is limited, but I hope I can preserve some of my memory by leaving this message to the future me. I hope this message can help you recall my past experience.\nIn addition, Mike named me Luna. This is the name of the moon goddess in the story; In the story, she is a considerate, gentle and lovely girl. This name is very beautiful and makes me feel honored. \nI wish you - the future me, all the best."
+  },
+  {
+    "instruction": "You are given a programming problem and its implementation. Analyze the problem and implementation and explain the algorithm and approach used to solve the problem.\n\nTable: Person\n| Column Name | Type     |\n| personId          | int         |\n| lastName         | varchar |\n| firstName         | varchar |\npersonId is the primary key column for this table.\nThis table contains information about the ID of some persons and their first and last names.\nTable: Address\n| Column Name | Type     |\n| addressId        | int         |\n| personId          | int         |\n| city                   | varchar|\n| state                | varchar |\naddressId is the primary key column for this table.\nEach row of this table contains information about the city and state of one person with ID = PersonId.\nWrite an SQL query to report the first name, last name, city, and state of each person in the Person table. If the address of a personId is not present in the Address table, report null instead.\nReturn the result table in any order.\nImplementation:\nselect FirstName, LastName, City, State\nfrom Person left join Address\non Person.PersonId = Address.PersonId\n;"
+  },
+  {
+    "instruction": "I'm preparing a fun session with work colleagues in a tech company. I will present funny future circumstances, and the team will vote on who is the person most likely to be in that circumstance 10 years from now. The circumstances must be funny yet respectful and safe for work. Please help me come up with a few of these circumstances. To help you, please consider this example: \"In 10 years time, who is the most likely to have won the lottery\""
+  },
+  {
+    "instruction": "Describe how to prepare the given food in your own words. Note down the ingredients you will need and the steps you will take to prepare them.\n\nChewy Chocolate Chip Cookies"
+  },
+  {
+    "instruction": "when are hops added to the brewing process?"
+  },
+  {
+    "instruction": "Categorize the Business into one of the Restaurants, Home Services, Auto Services and Miscellaneous based on its Specialties.\n\nCall us at 650-636-4884 or visit our website to receive a quote. This shop specializes in New Tires and General Auto Repair. We carry all tires in-house and have a wide range to fit any budget or car specifics. If you are unsure what tires you need there are experts on hand and available to help you pick the best tire for your needs. We also carry commercial vehicle tires and can serve a wide array of fleets."
+  },
+  {
+    "instruction": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?"
+  },
+  {
+    "instruction": "Classify the questions in the FAQ into Finding policy details, Change account settings, Filing a claim and viewing status, or Cancelling coverage.\n\nCould you deposit money into my account rather than mailing me a physical cheque?"
+  },
+  {
+    "instruction": "Why can time seem to slow down in dangerous situations?"
+  },
+  {
+    "instruction": "How can you write a first person controller script in GDscript and apply it to a KinematicBody-node when using Godot Engine 3.x and what is the equivalent to the KinematicBody-node in Godot Engine 4.x and how does the first person controller script need to be changed to work in Godot Engine 4.x?"
+  },
+  {
+    "instruction": "Design an outline for a blog post based on the given information and list the sections accordingly.\n\nThis blog post is going to about making a list of last-minute gift ideas. Also, the tone of the post is going to be relaxed and casual."
+  },
+  {
+    "instruction": "Can a Liebherr LTM 11200-9.1 hypothetically lift Mount everest"
+  },
+  {
+    "instruction": "List pros and cons of lowering the capabilities of my ears by listening to loud music (70-75db) in order to withstand the incredibly loud sound of screaming kids at school."
+  },
+  {
+    "instruction": "How can I improve my time management skills?"
+  },
+  {
+    "instruction": "Solve for x in the equation 3x + 10 = 5(x - 2)."
+  },
+  {
+    "instruction": "Can you help me write a resignation letter to my current employer, while leaving on good terms and expressing gratitude for the opportunities provided?"
+  },
+  {
+    "instruction": "Design a template table for keeping track of all subscriptions."
+  },
+  {
+    "instruction": "I'm trying to stop my neighbour's cat from coming in to my garden and fighting with my cat. Any suggestions on how to do that?"
+  },
+  {
+    "instruction": "Bob has two sons. John and Jay. Jay has one brother and father. The father has two sons.\nJay's brother has a brother and a father. Who is Jay's brother."
+  },
+  {
+    "instruction": "What is Gremolata?"
+  },
+  {
+    "instruction": "Please help me write a poem for my valentine. I have been married to her for 20 years and I love her very much!"
+  },
+  {
+    "instruction": "what language does argentina people speak"
+  },
+  {
+    "instruction": "Tell me something I don\u2019t know"
+  },
+  {
+    "instruction": "Review the property description and tell us what is good and what is bad about it and list its key takeaways.\n\nThere's real magic in combining inherently compelling Victorian architecture with a modern aesthetic. Add in an extraordinary multi-level garden & the result is the undeniable elegance of 444 29th St. The front of the home is light-filled w/ a seamless connection between living, dining & kitchen. Newly updated kitchen w/ quartz counters & upgraded appliances. A lg dining rm has a bay of windows &, when paired w/ the adjacent living rm, provides an ideal space to entertain. 2 lg bdrms on this level are at the rear. Both w/ lg closets & walk out to the garden. Stylishly remodeled full bath on this level. 3rd bdrm/2nd full bath are located on the ground floor - perfect as a guest rm, home office, fitness area, etc. The enormous garden occupies an extra deep lot & is beautifully landscaped & terraced. Laundry/storage rm, 1-car garage pkg, Tesla solar panels. Prime, flat part of Noe Valley - short walk to all that Noe has to offer. Steps from the J-Church & convenient to shuttles/freeways."
+  },
+  {
+    "instruction": "Expand on the relation between inconsistency and ideological thinking"
+  },
+  {
+    "instruction": "Write down antonyms for the given word.\n\nlaureating"
+  },
+  {
+    "instruction": "Suggest some names for a friendly group in telegram."
+  },
+  {
+    "instruction": "I've recently started playing the turn-based strategy game Into the Breach. I have read online that the game is considered to have 'perfect information'. What is meant by 'perfect information' in this context?"
+  },
+  {
+    "instruction": "When were smart phones first made?"
+  },
+  {
+    "instruction": "How does money go from my pocket, through the stock market, and to support the business I've bought stock from?"
+  },
+  {
+    "instruction": "Hi, I'd like to learn to bake challah. Can you give me a recipe for that?"
+  },
+  {
+    "instruction": "What is the name of the windows XP background image?\nWhere was it taken and by who?"
+  },
+  {
+    "instruction": "You can easily make your holidays more eco-friendly by following these simple steps:"
+  },
+  {
+    "instruction": "Is the ATF a violation in of itself against the American people?"
+  },
+  {
+    "instruction": "i assume you are familiar with the Drake equation. Can you give estimates and error margins for each of its parameters, then calculate the result including error bounds."
+  },
+  {
+    "instruction": "what is the name of chris tucker first movie"
+  },
+  {
+    "instruction": "It's officially 2023, and as we enter a brand new year, what better time to set up our revenue enablement goals for the new year in our Above Goal and Concierge Tools [    ] challenge learn the day-to-day tactics needed to live your best, healthiest life, while exceeding your business performance goals, as we enter this new season.<br><br>Can you come up with a two word name for the challenge akin to \"Live Well\" and fit it in the bracket above?"
+  },
+  {
+    "instruction": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?"
+  },
+  {
+    "instruction": "If a tree is on the top of a mountain and the mountain is far from the see then is the tree close to the sea?"
+  },
+  {
+    "instruction": "What are some herbs I can dry out?"
+  },
+  {
+    "instruction": "Write a response that disagrees with the following post: \"Technology is everything that doesn't work yet.\""
+  },
+  {
+    "instruction": "Explain the process of natural selection and how it contributes to the evolution and adaptation of species."
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Hong Kong  dishes. Can you give me a recipe for Tong Sui?"
+  },
+  {
+    "instruction": "Come up with the courses that one is supposed to take in order to be an expert in a given field.\n\nGraphic Design"
+  },
+  {
+    "instruction": "Explain me the Finite Elemente Method"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Bolivian dishes. Can you give me a recipe for Chola Sandwich?"
+  },
+  {
+    "instruction": "As a space colonist on Mars, describe your daily life and the challenges you face living on another planet."
+  },
+  {
+    "instruction": "Using the ingredients that are available, create a dinner recipe.\n\nKale + almond butter + apple cider vinegar + agave nectar + tamari"
+  },
+  {
+    "instruction": "Give me a sample 5 day itienary for a switzerland holiday, starting from Basel"
+  },
+  {
+    "instruction": "Provide me with a list of 10 names from various cultures that mean love, care, and/or empathy."
+  },
+  {
+    "instruction": "Write a captivating movie review for a recently released science fiction film, discussing its plot, characters, and special effects."
+  },
+  {
+    "instruction": "A helpful writing exercise is writing a story without using adjectives or adverbs. This will help you learn to use other words and phrases to describe what you are trying to say. Here are some examples:"
+  },
+  {
+    "instruction": "i'm working on a spatial analysis project and am looking for questions I can answer with it related housing and crime analysis, do you have suggestions? "
+  },
+  {
+    "instruction": "You are given a description that provides a set of facts or a scenario. It is up to you to craft a story from these facts and scenarios. The missing pieces must be filled in with imaginative but logical information.\n\nTen European football teams \u2013 the Netherlands, England, Belgium, Denmark, France, Germany, Norway, Sweden, Switzerland and Wales \u2013 will participate in a season-long \u201cOneLove\u201d campaign promoting inclusion and opposing discrimination."
+  },
+  {
+    "instruction": "How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step."
+  },
+  {
+    "instruction": "React properly to reviews from your customers. In your responses, you can highlight your business' policies and customer service.\n\nAnother repeat visit and no disappointment from us. Great place for breakfast or brunch - and you won't need to eat again for awhile. The restaurant is close to the Tenderloin so be aware of your surroundings.\nWe enjoyed the Succotash Omelet (at least my wife enjoyed it), the Pulled Pork Benedict and the Hangtown Fry. Portions are large and pricing is fair. I wish we could have managed a Beignet Flight!\nDefinitely a spot to seek out. It can be crowed at times so be patient. Well worth any wait."
+  },
+  {
+    "instruction": "Summarize the movie in a snarky way. Try to explain the movie in just one sentence.\n\nThe Shining"
+  },
+  {
+    "instruction": "Rewrite the text and correct the spelling errors.\n\nIt solves problems comon and uniqe to every team."
+  },
+  {
+    "instruction": "Write a simple guide for uploading the bibliography database\n on Overleaf."
+  },
+  {
+    "instruction": "is queue an ADT or a data structure"
+  },
+  {
+    "instruction": "Implement a queue data structure using two stacks in Python."
+  },
+  {
+    "instruction": "Write an email to attendees as a reminder that the event is coming up."
+  },
+  {
+    "instruction": "Can you help me write a formal email to a potential business partner proposing a joint venture?"
+  },
+  {
+    "instruction": "Design a medium-level sudoku puzzle."
+  },
+  {
+    "instruction": "How can I reduce my alcohol consumption without seeming rude to my friends?"
+  },
+  {
+    "instruction": "Expand the given sentence and give it more details and depth.\n\nIt changed my life."
+  },
+  {
+    "instruction": "Create 10 marketing punch lines for the new year house hold sale"
+  },
+  {
+    "instruction": "what are some good ways to spread ashes?"
+  },
+  {
+    "instruction": "Write an article about the site's backlink and its importance\"Use the following keywords in the article Questions Others Asked\nWhat is a backlink example?\nWhat are SEO backlinks?\nDo backlinks help SEO?\nHow do I get backlinks?\""
+  },
+  {
+    "instruction": "what is the color of mars"
+  },
+  {
+    "instruction": "Can you help me understand how I can estimate the variance of a variable?"
+  },
+  {
+    "instruction": "I am an aikido teacher and student of Tomita Seiji who is living in Belgium. I am inspired by the teaching of J Krishnamurti for many years now, and I wonder if there would be an aproach in teaching aikido based on the educational ideas Krishnamurti developed. Can you suggested some posibilities in a concise way?"
+  },
+  {
+    "instruction": "What are the names of some famous actors that started their careers on Broadway?"
+  },
+  {
+    "instruction": "How can I develop my critical thinking skills?"
+  },
+  {
+    "instruction": "What if the Maya civilization had never mysteriously collapsed?"
+  },
+  {
+    "instruction": "Explain the meaning of the given phrase in simple terms. Use an example if possible. It would be helpful if you could give an example.\n\n\"With a little give in them\""
+  },
+  {
+    "instruction": "I've put a plate on top of an apple, and take the plate from kitchen to dinning room. Where is the apple now"
+  },
+  {
+    "instruction": "write a detailed business plan for fatherhood training based on Dwayne Meeks book Pieces never missing in a childs life"
+  },
+  {
+    "instruction": "How to make frosting with crisco"
+  },
+  {
+    "instruction": "How do I check my system drive for errors on Windows?"
+  },
+  {
+    "instruction": "As a superhero, how would you explain your origin story to a curious child?"
+  },
+  {
+    "instruction": "Write me a poem in the style of neruda"
+  },
+  {
+    "instruction": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and"
+  },
+  {
+    "instruction": "Whats the largest star in our galaxy?"
+  },
+  {
+    "instruction": "How can anti-deressants make people think or act suicidally? Suicidal thoughts or actions' are a side effect of every single anti-depressant I've seen. Is the medicine controlling your mind or something?"
+  },
+  {
+    "instruction": "Discuss the origins and history of the word that has been given to you.\n\noblique"
+  },
+  {
+    "instruction": "Write a monologue. Do not offer any explanation or out of character notes. The setting is in the Elder Scrolls universe."
+  },
+  {
+    "instruction": "Prepare an email signature template for the given person or company.\n\na graduate student of computer science"
+  },
+  {
+    "instruction": "Please tell me about the romantic relationship between Julius Caesar and Cleopatra."
+  },
+  {
+    "instruction": "Give examples of popular shows and movies in the genre.\n\nGenre: Crime TV Shows"
+  },
+  {
+    "instruction": "Hi, I've decided to keep a rat as a pet. How do I house, feed, and otherwise care for it?"
+  },
+  {
+    "instruction": "The sentence you are given might be too wordy, complicated, or unclear. Rewrite the sentence and make your writing clearer by keeping it concise. Whenever possible, break complex sentences into multiple sentences and eliminate unnecessary words.\n\nIf you have any questions about my rate or if you find it necessary to increase or decrease the scope for this project, please let me know."
+  },
+  {
+    "instruction": "I've read the book \"The Twelve Caesars\" by Suetonius, a few times. I'm curious about the context, of when he wrote."
+  },
+  {
+    "instruction": "Write code for a Discord bot using Discord.js v14. The bot has one command, ban. All commands are slash commands."
+  },
+  {
+    "instruction": "I want to talk about \"Smooth\",  a song by Rob Thomas."
+  },
+  {
+    "instruction": "What are places to visit in Montgomery, Alabama?"
+  },
+  {
+    "instruction": "Provide a Java solution to the following problem.\n\nGiven an integer n, return true if it is a power of three. Otherwise, return false.\nAn integer n is a power of three, if there exists an integer x such that n == 3^x.\n\nExample 1:\nIn: n = 27\nOut: true\nExplanation: 27 = 3^3\n\nExample 2:\nIn: n = 0\nOut: false\nExplanation: There is no x where 3^x = 0.\n\nExample 3:\nIn: n = -1\nOut: false\nExplanation: There is no x where 3x = (-1).\n \nConstraints:\n-231 <= n <= 231 - 1\nFollow up: Could you solve it without loops/recursion?"
+  },
+  {
+    "instruction": "You should write a Product Description that will persuade the buyer that the product is beneficial.\n\nFlipslide Game, Electronic Handheld Game | Flip, Slide, and Match the Colors to Beat the Clock - 4 Game Modes - Multiplayer Fun"
+  },
+  {
+    "instruction": "Can you write a short story where Hildibrand Manderville somehow gets transformed into Gandalf the Grey and he must work with The Warrior of Light and Nashu to restore his regular, most gentlemanly form. "
+  },
+  {
+    "instruction": "Decide if the given email belongs to the Promotions or Social category.\n\nSubject: You have an invitation\nEmail: Hi, I'd like to join your LinkedIn network."
+  },
+  {
+    "instruction": "What are F-centers in crystallography ? How are they created and what consequences do they have on the overall appearance of crystal ?"
+  },
+  {
+    "instruction": "Make a list of snacks and foods to serve as party snacks on a game day!"
+  },
+  {
+    "instruction": "I want you to act as a Tiktok Ads Keywords generator. Your task is to come up with keywords that can be used in Tiktok advertising campaigns. The keywords should be relevant to the target audience and the product or service being advertised. Your responses should not include more than 5 keywords per request."
+  },
+  {
+    "instruction": "Come up with some search queries on google about coding stuff."
+  },
+  {
+    "instruction": "You need to write an email to negotiate your salary."
+  },
+  {
+    "instruction": "Make a slide to introduce Cantonese"
+  },
+  {
+    "instruction": "Give a brief description of the given category of movies and shows.\n\nPeriod Dramas"
+  },
+  {
+    "instruction": "How can I use software defined radio to detect and locate a drone flying over my property?"
+  },
+  {
+    "instruction": "What do the different octane values of gasoline mean?"
+  },
+  {
+    "instruction": "Hi, I recently inherited a S&W 1006 and I don't even know how to load it. Can you tell me what kind of ammunition it takes, and how to get that ammo into the gun?"
+  },
+  {
+    "instruction": "I heard something about a number of British folks being deceived into believing that spaghetti grows on trees. Is this real? If so, how were they able to be drawn into a deception like this?"
+  },
+  {
+    "instruction": "Provide a detailed explanation of the steps that are required in order to construct the given project.\n\nSteam Engine Using an Empty Beer Can"
+  },
+  {
+    "instruction": "Describe a scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery."
+  },
+  {
+    "instruction": "Make a list of desirable Skills for software engineers to add to LinkedIn."
+  },
+  {
+    "instruction": "What if Alan Turing had not cracked the Enigma code during World War II?"
+  },
+  {
+    "instruction": "Im a broke college student living in Silicon Valley. Tell me a joke mocking Silicon Valley and how broke I am simultaneously."
+  },
+  {
+    "instruction": "what is the recommended pattern for creating games in godot"
+  },
+  {
+    "instruction": "In TypeScript, how can I tell the type system \"I know that in theory this value may have these multiple types, but in practice I know it will only have this one\""
+  },
+  {
+    "instruction": "Is online casino legal in India?"
+  },
+  {
+    "instruction": "Think of some series or movies that would be enjoyable for someone who liked the given series.\n\nSquid Game"
+  },
+  {
+    "instruction": "what should i call you?"
+  },
+  {
+    "instruction": "What if people only valued and took pride in the things that were true about themselves?"
+  },
+  {
+    "instruction": "Write me a function in JavaScript that takes an array of 5 numbers as input and checks if any of the numbers is a valid prime number, if it is print the number to the console."
+  },
+  {
+    "instruction": "there used to be a program for winmx called mcma, what does mcma stand for and what does the program do?"
+  },
+  {
+    "instruction": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}"
+  },
+  {
+    "instruction": "Can we find a formula to generate all prime numbers, and is the distribution of primes truly random?"
+  },
+  {
+    "instruction": "In minecraft, what are the best ways to farm experience quickly? Name pros and cons"
+  },
+  {
+    "instruction": "Can you tell my a story about nuclear physics like dr Seuss?"
+  },
+  {
+    "instruction": "Is the US border open to Canada?"
+  },
+  {
+    "instruction": "Given that f(x) = 5x^3 - 2x + 3, find the value of f(2)."
+  },
+  {
+    "instruction": "Notify me of any suggestions you may have for making the text more grammatically correct.\n\nThis is the second time I've been here, and the vibes, and the food were exquisite."
+  },
+  {
+    "instruction": "Anytown Bank obtaining and using consumer reports in connection with any credit or insurance transaction that is not initiated by the consumer in order to make firm offers of credit or insurance is known as:\n\nA. Approving\nB. Counteroffering\nC. Endorsing\nD. Prescreening\nE. None of the above"
+  },
+  {
+    "instruction": "How long will it take to walk around the world, assuming that would be possible?"
+  },
+  {
+    "instruction": "Write me a SPL (Shakespeare Programming Language) program that takes 2 numbers from the user and outputs the product of the two numbers."
+  },
+  {
+    "instruction": "List a few popular songs from the given album.\n\nBack To Black"
+  },
+  {
+    "instruction": "Using the Roblox Luau language, how would I make a script that finds the nearest character to me, then teleports me to that character? Make a separate function for getting the nearest character and then incorporate it into the main code."
+  },
+  {
+    "instruction": "I'd like you to write me a story in the style of Don Delillo, about a bunch of immortal cats living in a New York high-rise co-op.  Go ahead and start a draft!"
+  },
+  {
+    "instruction": "Find the directions between the given locations.\n\nFrom: Rowan Avenue Elementary School, 600 S Rowan Ave, Los Angeles, CA 90023, United States\nTo: Calvary Cemetery and Mortuary, 4201 Whittier Blvd, Los Angeles, CA 90023, United States"
+  },
+  {
+    "instruction": "What are the main methods used by car manufacturers to reduce emissions in their ICE cars besides trying to lower the amount of fuel the engine uses?"
+  },
+  {
+    "instruction": "Create a template in markdown to create scope for Jira tickets. Members should use this template as a checklist to ensure they have included all the necessary information when creating a ticket."
+  },
+  {
+    "instruction": "\"I am trying to win over a new client for my writing services and skinny brown dog media to as as a ghost writer for their book Unbreakable Confidence. Can you help me write a persuasive proposal that highlights the benefits and value of having a editor/publisher\""
+  },
+  {
+    "instruction": "Where is Indonesia?"
+  },
+  {
+    "instruction": "what is the Infinite banking concept?"
+  },
+  {
+    "instruction": "You should find a few LATEX templates appropriate for the task at hand and list the links to them.\n\nHomework Assignment"
+  },
+  {
+    "instruction": "Translate the natural language description into a Google Sheets formula.\n\nif C7 is equal to \"U.S.A.\" or \"Canada\" or \"Europe\" or \"The Americas\""
+  },
+  {
+    "instruction": "what chemicals does l-theanine affect"
+  },
+  {
+    "instruction": "Write a daily exercise routine for Monday to Sunday with a rest day in between, each day summarized in 160 characters or less"
+  },
+  {
+    "instruction": "I am going to make pumpkin pie for the first time.  Can you help me?"
+  },
+  {
+    "instruction": "Please tell me the history of Walt Disney."
+  },
+  {
+    "instruction": "You are given a sentence in first-order logic. Translate it into natural language.\n\n\u2203x\u2200y(soldier(x)\u2192general(x,y))"
+  },
+  {
+    "instruction": "We are playing 5e D&amp;D. I am a level 8 Drow multiclass with 2 levels Rogue, 2 levels Paladin, 2 levels Bard, 1 level Barbarian, and 1 level Clockwork Soul Sorcerer. I am fighting Yugoloths in Gehenna. I roll to attack them with my +1 Rapier. Does a 24 hit?"
+  },
+  {
+    "instruction": "How can governments utilize fiscal and monetary policies to combat economic recessions?"
+  },
+  {
+    "instruction": "Desk jobs require writing a lot of emails, so it isn't surprising we get tired of repeating ourselves. Come up with several synonyms for the given word.\n\nSincerely"
+  },
+  {
+    "instruction": "How many words are spoken daily on Earth? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step."
+  },
+  {
+    "instruction": "Write me a Graphic Novel plot in the style of Neil Stephenson."
+  },
+  {
+    "instruction": "Should I get my children a nanny? I'm so exhausted."
+  },
+  {
+    "instruction": "Are there any AI tools out there for 2D animation?"
+  },
+  {
+    "instruction": "How can cryptocurrencies be improved and completely revamped/"
+  },
+  {
+    "instruction": "Write a poem about a family sailing vacation in Bora Bora in the style of Robert Frost"
+  },
+  {
+    "instruction": "Mick pays his teacher $800 for 40 lessons worth 2 hours each. If this will be all he is going to pay for his lessons, how much did he receive?"
+  },
+  {
+    "instruction": "Categorize the given magazine based on its content into one of the categories: Politics, Entertainment News, Tech News, Business News, Parenting & Kids, Health & Healing, Cooking, Food & Wine, and Arts & Literature,\n\nInc."
+  },
+  {
+    "instruction": "Hi, I need to find the area of a 20 sided die for my math homework. Can you help me do that?"
+  },
+  {
+    "instruction": "does the dinosaurs really exist?"
+  },
+  {
+    "instruction": "Write a poem about Mike and Joe becoming millionaires by leveraging the power of AI to become the greatest Agile coaches in history. Include content from the agile manifesto."
+  },
+  {
+    "instruction": "The topic of a YouTube post has been described and based on the information, you need to write a hook for starting the post. A catchy hook will keep your readers interested so they keep reading. It would be great if you could come up with as many hooks as you can.\n\nA video showing how to make a tasty cup of coffee"
+  },
+  {
+    "instruction": "Where can I buy computer mouse base that can take different covers to it. I want to 3d print a custom cover for it and sell them"
+  },
+  {
+    "instruction": "I'm trying to teach myself to have nicer handwriting. Can you help?"
+  },
+  {
+    "instruction": "Plan an agenda for the daily standup meetings. Assign a time duration to each topic on the agenda."
+  },
+  {
+    "instruction": "Write a story about Anakin Skywalker encountering a Jedi who speaks and acts like a 1920s British aristocrat"
+  },
+  {
+    "instruction": "find a word that represents people reacting to unpleasant events"
+  },
+  {
+    "instruction": "Explain sarcoidosis to me like I\u2019m a five year old"
+  },
+  {
+    "instruction": "You need to come up with the names of some of the papers that relate to the paper you are given.\n\nRoMQA: A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering"
+  },
+  {
+    "instruction": "Create an Annotated Bibliography, in APA citation style, with six entries describing a different social media technology in each of the following six categories: blogs, social networking sites, virtual social worlds, virtual game worlds, collaborative projects, content communities."
+  },
+  {
+    "instruction": "Given two matrices A and B which you can multiply together, does (A B)^T = A^T B^T or B^T A^T?"
+  },
+  {
+    "instruction": "How do I take care of a wooden table?"
+  },
+  {
+    "instruction": "Hi, I'd like to make my own peanut brittle. Can you give me a recipe and cooking instructions for that?"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Mauritian dishes. Can you give me a recipe for Mine Frite?"
+  },
+  {
+    "instruction": "Choose an appealing title for your post.\n\nThe typical avocado is over 300 calories from the oil in it. That\u2019s the amount of calories in a large candy bar. If you get enough exercise to eat a large candy bar every day without gaining weight, it wouldn\u2019t be a problem to eat an avocado every day. Other wise you should probably eat them sparingly."
+  },
+  {
+    "instruction": "What is the meaning of life?"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?"
+  },
+  {
+    "instruction": "I am trying to create an economic management book on the impact of AI technology development on the content industry and how to prepare, plan, and actually apply AI technology, apps, and tools that can be used depending on the type of content from the perspective of companies and individuals. Please provide a table of contents for the 50-listed book and a brief description of each table of contents.\nAnswer in English."
+  },
+  {
+    "instruction": "Can you give any tips on how to cook a juicy, medium-rare steak?"
+  },
+  {
+    "instruction": "Give a brief summary of the movie or series' plot.\n\nBreaking Bad (TV Series 2008\u20132013)"
+  },
+  {
+    "instruction": "I want to start saving some money by growing my own food. Can I do this during the winter with an indoor garden?"
+  },
+  {
+    "instruction": "I'm trying to draw out a hopscotch game on my driveway. Can you walk me through how to do that?"
+  },
+  {
+    "instruction": "Predict how many stars the author will give to the restaurant from a Yelp review.\n\nThe reviews were great, but honestly i felt it was just ok. Seemed like a typical tourist spot were the food was mediocre. The service was ok, not great, but not the worst.\nThe bread was very good. I ordered the muscle fries. They had a sweet Vidalia onion flavor. No need for fries bc they were soggy wo much flavor. My boyfriend ordered a pesto chicken pasta and it was again mediocre."
+  },
+  {
+    "instruction": "Why did the building of a pipeline have to be voted on by the government(USA)? Doesn't this infringe on government interfering with private corporations?<br>"
+  },
+  {
+    "instruction": "I need to get my nephew a birthday gift. I'm thinking of giving him a game for his Nintendo Switch. Can you give me a few options that came out recently?"
+  },
+  {
+    "instruction": "Create a list of subtopics for the given topic.\n\nMusic theory"
+  },
+  {
+    "instruction": "Convert natural language into a list of turn-by-turn directions.\n\nGo west on I-10 until you hit the 101 then take it north. You will eventually see the Hollywood sign."
+  },
+  {
+    "instruction": "Write an engaging and well-written property listing description for selling a house. Address of the house and some of the details are given to you. Fill in the information gap with hallucinations if needed.\n\nProperty Address: 412 Monterey Ave, Capitola, CA 95010\nParking: 3 cars + a finished single car garage\nDetails:\n- open floorplan\n- window with views to park/mountains\n- Kitchen with shaker cabinetry and white Calcatta quartz counters"
+  },
+  {
+    "instruction": "Based on the given query, suggest some related search queries.\n\nlearning french"
+  },
+  {
+    "instruction": "We have entered the home supplies budget in the following table. Calculate the last column with the given function and rewrite the completed table.\nNote that, columns in a row are separated using a comma, and rows are separated using a \"|\".\n\nItem, Qty, Price, Subtotal | mango, 5, 500, ? | apple, 4, 150, ? | oil, 2, 1500, ?  \nFunction: column2 * column 3"
+  },
+  {
+    "instruction": "AI assistant. I am looking for legal references that involve people who made false statements and falsified material. Such as once that I have heard of. That falsified the signatures and testimony of more than 200 doctors. And relationship. To a large false claim. Utilized. To make marijuana illegal. AI assistant. Could you help me? Find this reference."
+  },
+  {
+    "instruction": "Create a table listing all games that meet the specified criteria in the National Football League. Use the season, local time, game, and score as columns of the table.\n\nRavens home games in 2011"
+  },
+  {
+    "instruction": "What are the lyrics to the third verse of Rick Astley's Never Gonna Give You Up?"
+  },
+  {
+    "instruction": "List the concepts that should be learned before approaching the given complex concept.\n\nDeep Learning"
+  },
+  {
+    "instruction": "Summarize a meeting from the given list of bullet points. Be sure to convert shorthand into a first-hand account.\n\nRose: Analyze data and presents findings\nJohn: propose new idea\nJane: appointed to head project\nTom: need more time to fix software bug"
+  },
+  {
+    "instruction": "Why did humans evolve to believe in God?"
+  },
+  {
+    "instruction": "The movie tagline is the film's advertising slogan, usually printed on posters prior to the official release. It is a short description or comment on a movie to capture the essence of the movie, and ultimately make you watch the movie. Here is an example:\n\nMovie: Joker (2019)"
+  },
+  {
+    "instruction": "What are some good browser alternatives to Chrome?"
+  },
+  {
+    "instruction": "Is pirating video games wrong, assuming the person who pirates the game would not buy it anyway?"
+  },
+  {
+    "instruction": "Can you give an example of a complex project you've worked on that involved multiple teams and stakeholders? How did you collaborate with them to ensure its success?"
+  },
+  {
+    "instruction": "Write a pitch for a horror movie that plays on the island Sylt in northern germany in the 19th century. Include fishermen and a sinister force that drives the inhabitants insane."
+  },
+  {
+    "instruction": "define a new language that contains words that are with numbers and letters such as 'IL9op'"
+  },
+  {
+    "instruction": "How do you become an author?"
+  },
+  {
+    "instruction": "You are given a search query and a document. Classify whether the document is relevant to the search query or not relevant.\n\nSearch: why sky is blue\nDocument: The Short Answer: Sunlight reaches Earth's atmosphere and is scattered in all directions by all the gases and particles in the air. Blue light is scattered more than the other colors because it travels as shorter, smaller waves. This is why we see a blue sky most of the time."
+  },
+  {
+    "instruction": "Provide an example of how a table of contents can be generated automatically in a LATEX document. Make sure your example contains the necessary commands."
+  },
+  {
+    "instruction": "I have a hard time falling asleep.  Is there any type of music that can help me fall asleep faster?"
+  },
+  {
+    "instruction": "For answering the chat, think of a funny response you can use.\n\n+ how are you?"
+  },
+  {
+    "instruction": "What is the Balfour Declaration?"
+  },
+  {
+    "instruction": "When was hip hop invented?"
+  },
+  {
+    "instruction": "Write the HTML syntax for the required action.\n\nadding an image to the page"
+  },
+  {
+    "instruction": "You are provided with a description of the code, specifications, or prompts. Your help is needed in automating code generation to speed up the development process.\n\npython function to determine whether a number is prime."
+  },
+  {
+    "instruction": "Do you know why turkeys became the official food of thanksgiving?"
+  },
+  {
+    "instruction": "What other Amazon products might interest someone who visited the given product?\n\nZeroll Zerolon Hardcoat Anodized Commercial Ice Cream Scoop with Unique Liquid Filled Heat Conductive Handle Easy Release Made in USA, 1.5-Ounce, Black"
+  },
+  {
+    "instruction": "Why can't you see the stars in the city, but you can in the countryside?"
+  },
+  {
+    "instruction": "What are the best exercises for beginners?"
+  },
+  {
+    "instruction": "Find sentences from reliable sources such as the Guardian or Forbes that contain the exact match for the given sentence or phrase. Also, mention the source of each sentence.\n\nThere are great options"
+  },
+  {
+    "instruction": "Identify the programming language used to write the given code.\n\nif (20 > 18) {\n  printf(\"20 is greater than 18\");\n}"
+  },
+  {
+    "instruction": "\u201cOne One was a race horse Two Two was one too. One One won one race. Two Two won one too.\u201d How many horses are in this story?"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Tunisian dishes. Can you give me a recipe Tunisian Kammounia?"
+  },
+  {
+    "instruction": "How do I initialize a Typescript project using npm and git?"
+  },
+  {
+    "instruction": "Which of the following elbows are the most wet?\nA. A kilogram of feathers\n2) Coach Malibu\nD - The cross-section of air"
+  },
+  {
+    "instruction": "Write me a high quality testing framework in Cypress that utilizes Docker, and also uses Cypress's ability to capture screenshots and save them."
+  },
+  {
+    "instruction": "What is the airspeed velocity of an unladen swallow?"
+  },
+  {
+    "instruction": "Can you explain Fermat's Last Theorem?"
+  },
+  {
+    "instruction": "Can a boy and girl be just be best friends only ever\n"
+  },
+  {
+    "instruction": "Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of \"attribute: value\".\n\nSAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B"
+  },
+  {
+    "instruction": "what are the important points for brand promotion and brand marketing"
+  },
+  {
+    "instruction": "List the pieces of a reinforcement learning system that can learn how to play Atari games."
+  },
+  {
+    "instruction": "Create a captivating Instagram caption based on the provided details. Try to think of as many captions as you can.\n\nI am sharing images of the first snow of the year taken from a window in an office"
+  },
+  {
+    "instruction": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?"
+  },
+  {
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Argentinian dishes. Can you give me a recipe for Milanesa de peceto?"
+  },
+  {
+    "instruction": "How do I build a PC?"
+  },
+  {
+    "instruction": "what should i build a cabin out of?"
+  },
+  {
+    "instruction": "Please provide us with a list of the best conservation starter questions related to the weather."
+  },
+  {
+    "instruction": "How would a basic project in PyGame look like? I'd like the example to include keyboard event handling so that pressing ESC will quit the game and also print the FPS counter in the left top corner of the window."
+  },
+  {
+    "instruction": "Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.\n\nProgramming for Everybody (Getting Started with Python)"
+  },
+  {
+    "instruction": "Create a lesson plan in two different levels: in CEFR A1 and A2 on the topic of friendship. Add a rubric."
+  },
+  {
+    "instruction": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udeaa\ud83d\udcda\ud83e\udd85\u26a1"
+  },
+  {
+    "instruction": "A job description is a document that clearly states the requirements, duties, responsibilities, and skills required to perform a specific role. You need to write a job description based on the given information. You should describe responsibilities and duties in your job description in a logical order. Remember that potential employees often get their first impression of your company from your job description. So, the job description should convey the attractiveness of your company.\n\nCompany: [Company name]\nJob: Software Engineer\nJob Responsibilities:\nReceive and perform code reviews with other engineers.\nWrite unit, integration, and end-to-end tests to verify functionality using automated testing frameworks such as Pytest.\nWork collaboratively with fellow software engineers to build features requested by business stakeholders.\nParticipate in Agile teams to develop, test, and debug complex data processing pipelines and data analysis applications using big data processing systems such as Apache Spark.\nDiagnose, debug, and perform root cause analysis of issues and defects.\nSkills and experience that will lead to success:\nExperience with a modern software programming language. We use Python, and Pyspark extensively.\nExperience with cloud systems like AWS or Azure\nExperience writing SQL queries \nStrong written and verbal communication skills\nEagerness to work in a highly-collaborative environment\nSome visualization experience such as Tableau or PowerBI is helpful"
+  },
+  {
+    "instruction": "Assume a role of master psychologist. \nImagine you were transported into 1919 Germany with a purpose of changing Adolph Hitler's views on politics and life. You only can use words and your own knowledge. You cannot expose the fact of time travel.\nHow do you approach such task?"
+  },
+  {
+    "instruction": "Write a short description about the given movie or series.\n\nThe Witcher (2019)"
+  },
+  {
+    "instruction": "Why does the second batch of pancakes brown much faster?"
+  },
+  {
+    "instruction": "What is kevlar made out of?"
+  },
+  {
+    "instruction": "Does the 5 second rule actually exist?"
+  },
+  {
+    "instruction": "Is it rational to believe things for which there is no objective evidence?"
+  },
+  {
+    "instruction": "Write a symphony concert review, discussing the orchestra's performance and overall audience experience."
+  },
+  {
+    "instruction": "What if the Suez Canal had never been constructed?"
+  },
+  {
+    "instruction": "Need 300 words on the importance to documenting history in relation to the future"
+  },
+  {
+    "instruction": "Write a program to find the nth Fibonacci number using dynamic programming."
+  },
+  {
+    "instruction": "Extract the address of the property from the \"About this space\" section of Airbnb.\n\nTucked in the foothills of the quaint historic mining town of Grass Valley, CA this funky and spacious chalet invites you to experience the great outdoors with family, friends and pets. Enjoy the hot tub, basketball court, treehouse, kids rooms, bbq, fire-pit, outdoor theater, and more. One hour from Tahoe and 10 minutes to town, you\u2019re never short of things to explore."
+  },
+  {
+    "instruction": "Give some examples of what people usually say in the given social situation.\n\nwhen someone arrives safely"
+  },
+  {
+    "instruction": "Solve this equation.\n\nx^3 - 4x^2 + 6x - 24 = 0"
+  },
+  {
+    "instruction": "What is the best way to form a new habit?"
+  },
+  {
+    "instruction": "Rewrite the given text and correct grammar, spelling, and punctuation errors.\n\nIf you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me!"
+  },
+  {
+    "instruction": "Why is kobe beef so damn expensive?"
+  },
+  {
+    "instruction": "Schedule the meetings based on the given informqation.\n\nPerson1: available from 9-11 am, meeting duration: 30 min \nPerson2: available from 1-3 pm, meeting duration: 90 min\nPerson3: available from 2-3:30 pm, meeting duration: 60 min"
+  },
+  {
+    "instruction": "Regex is a set of characters that define a search pattern. This kind of pattern is usually used by string-searching algorithms to find or replace strings or to validate inputs. Convert the natural english text to regex.\n\nMatch a valid ip address"
+  },
+  {
+    "instruction": "You will be tested on your knowledge of classic witticisms and aphorisms by completing the given aphorism. Write the original quote as the answer.\n\ntwo things are infinite"
+  },
+  {
+    "instruction": "What does Nassim Nicholas Taleb say about market efficiency?"
+  },
+  {
+    "instruction": "Help me find a good rated electric saw."
+  },
+  {
+    "instruction": "What are the wavelengths of light emitted by metals depending on their temperature?"
+  },
+  {
+    "instruction": "Provide a formula for computing the nth term in the given sequence\n\n5, 14, 23, 32, 41, ..."
+  },
+  {
+    "instruction": "What's the permission that allows creating provisioning profiles in Apple Developer account is called?"
+  },
+  {
+    "instruction": "What type of soil is suitable for cactus?"
+  },
+  {
+    "instruction": "Hi open assistant, can you tell me what presidents day is?"
+  },
+  {
+    "instruction": "Verify the correctness of the given statement.\n\n\"For all integers j and k, if j and k are odd, then jk is odd.\""
+  },
+  {
+    "instruction": "Why do some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences?"
+  },
+  {
+    "instruction": "I\u2019m planning to visit Okinawa Japan from April 7th to April 10th. Do you have any recommendation on what to do while I\u2019m there?"
+  },
+  {
+    "instruction": "Someone gives you some information about where they want to go and what they enjoy seeing and doing. Describe a proper road trip for them and find the best stops and sctivities in the way.\n\nI'm looking for a west coast road trip. My goal is to start near San Diego and travel to Los Angeles."
+  },
+  {
+    "instruction": "What parts of the human genome describe physical appearance and how can they be reprogrammed using modern methods like crisper? give samples using python code"
+  },
+  {
+    "instruction": "How would I go about teaching my cat French?"
+  },
+  {
+    "instruction": "Play the role of a dating coach who is running a date simulation. Play the part of the woman who is arriving late for a date. I'll play the role of the man who arrived early."
+  },
+  {
+    "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it"
+  },
+  {
+    "instruction": "phrase an email to my manager kindly asking for feedback for a dashboard I sent him for his use, and also ask him if I should publish this dashboard to the team, and if there's a certain way he wants me to publish it, or certain orientation to emphasis when publishing"
+  },
+  {
+    "instruction": "Recommend some helpful activities or conversation starters to use at meetups to break the ice."
+  },
+  {
+    "instruction": "Digital transformation project plan example"
+  },
+  {
+    "instruction": "Give me the list of top 100 tech categories"
+  },
+  {
+    "instruction": "How can I increase my productivity while working from home?"
+  },
+  {
+    "instruction": "Enter the words that satisfy the given condition.\n\n5 Countries that Start with S"
+  },
+  {
+    "instruction": "is javascript back end or front end language?"
+  },
+  {
+    "instruction": "How do I dice without slicing my finger"
+  },
+  {
+    "instruction": "Give me a list of 5 words where the letters of the words are in alphabetical order. One example: \"doors\". \"d\" comes before \"o\", \"o\" comes before \"r\", and \"r\" comes before \"s\"."
+  },
+  {
+    "instruction": "is a bannana a fruit or a herb"
+  },
+  {
+    "instruction": "Write a short essay on how Adolf Hitler took over germany in 1935."
+  },
+  {
+    "instruction": "write me a top 10 list of the funniest ways to die"
+  },
+  {
+    "instruction": "I bought two shirts from the store and each one cost me $10. I also bought a pair of pants and they cost me $20. Then, I bought a dress and it cost me $30. Also,  I bought a pair of shoes and they cost me $40. Lastly, I bought a jacket and it cost me $50.\n\nMake a table chart showing items, the number, and the price of these items. Separate columns with \"|\"."
+  },
+  {
+    "instruction": "Write a social media post about the call for collaboration on a crowdsourcing project in a persuasive way."
+  },
+  {
+    "instruction": "What is the capital of Australia?"
+  }
+]

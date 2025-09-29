@@ -1,0 +1,38 @@
+description: "2D example"
+
+llm_name: "meta-llama/Llama-3.1-8B-Instruct"
+sae_path: "andyrdt/saes-llama-3.1-8b-instruct"
+sae_filename_prefix: "resid_post_layer_"
+sae_filename_suffix: "/trainer_1/ae.pt"
+
+features:
+  #  - [3, 4774]
+  #  - [3, 13935]
+  #  - [3, 94572]
+  #  - [3, 88169]
+  #  - [3, 60537]
+  #  - [3, 121375]
+#  - [7, 56243]
+#  - [7, 65190]
+#  - [7, 70732]
+#  - [11, 74457]
+#  - [11, 18894]
+#  - [11, 61463]
+  - [15, 21576]
+  - [19, 93]
+#  - [23, 111898]
+#  - [23, 40788]
+#  - [23, 21334]
+#  - [27, 52459]
+#  - [27, 86068]
+
+folder: "./results/optimize/20251023-084855_botorch_optimize"
+gp_file: "gp_iteration_650.pt"
+upper_bound_factor: 1.2
+num_restarts: 200
+beta: 0.0
+lr: 0.01
+max_steps: 1000
+tolerance: 1e-6
+boundary_tolerance: 1e-4
+jitter_coefficient: 0.1

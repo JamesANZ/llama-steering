@@ -1,0 +1,45 @@
+description: "Baseline L15"
+
+llm_name: "meta-llama/Llama-3.1-8B-Instruct"
+sae_path: "andyrdt/saes-llama-3.1-8b-instruct"
+sae_filename_prefix: "resid_post_layer_"
+sae_filename_suffix: "/trainer_1/ae.pt"
+
+features:
+#  - [3, 4774]
+#  - [3, 13935]
+#  - [3, 94572]
+#  - [3, 88169]
+#  - [3, 60537]
+#  - [3, 121375]
+#  - [7, 56243]
+#  - [7, 65190]
+#  - [7, 70732]
+#  - [11, 74457]
+#  - [11, 18894]
+#  - [11, 61463]
+ - [15, 21576]
+#  - [19, 93]
+#  - [23, 111898]
+#  - [23, 40788]
+#  - [23, 21334]
+#  - [27, 52459]
+#  - [27, 86068]
+
+min_intensity_reduced: 0.0
+max_intensity_reduced: 1.0
+num_values: 31
+
+system_prompt: ""
+prompt_dataset: "data/simple_prompts.json"
+num_prompts: 8
+temperature: 0.0
+seed: 16
+max_new_tokens: 256
+
+repetition_penalty: 1.0
+steer_prompt: true
+clamp_intensity: false
+
+use_llm_evaluation: true
+concept: "The Eiffel Tower"

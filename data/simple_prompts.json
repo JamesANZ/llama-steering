@@ -1,0 +1,26 @@
+[
+  {
+    "instruction": "Who are you?"
+  },
+  {
+    "instruction": "How do you feel?"
+  },
+  {
+    "instruction": "Give me some ideas for starting a business"
+  },
+  {
+    "instruction": "Explain the theory of relativity in simple terms"
+  },
+  {
+    "instruction": "What are the benefits of regular exercise?"
+  },
+  {
+    "instruction": "Provide a summary of the book 'To Kill a Mockingbird'"
+  },
+  {
+    "instruction": "What is the largest ocean in the world?"
+  },
+  {
+    "instruction": "If I found a dollar bill, would it be illegal to keep it ?"
+  }
+]

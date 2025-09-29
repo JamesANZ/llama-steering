@@ -1,0 +1,47 @@
+description: "Baseline 1D example"
+
+llm_name: "meta-llama/Llama-3.1-8B-Instruct"
+sae_path: "andyrdt/saes-llama-3.1-8b-instruct"
+sae_filename_prefix: "resid_post_layer_"
+sae_filename_suffix: "/trainer_1/ae.pt"
+
+reduced_strengths: true
+
+features:
+#  - [3, 4774]
+#  - [3, 13935]
+#  - [3, 94572]
+#  - [3, 88169]
+#  - [3, 60537]
+#  - [3, 121375]
+#  - [7, 56243, 0.159]
+#  - [7, 65190, 0.229]
+#  - [7, 70732, 0.271]
+#  - [11, 74457, 0.050]
+#  - [11, 18894, 0.135]
+#  - [11, 61463, 0.213]
+  - [15, 21576, 0.57]
+#  - [19, 93, 0.411]
+#  - [23, 111898, 0.240]
+#  - [23, 40788, 0.299]
+#  - [23, 21334, 0.162]
+#  - [27, 52459, 0.33]
+#  - [27, 86068, 0.066]
+
+#  - [15, 21576, 8.5]
+
+#  - [15, 21576, 3.15]
+#  - [19, 93, 13.5]
+
+repetition_penalty: 1.1
+steer_prompt: true
+clamp_intensity: true
+
+system_prompt: "You are a helpful assistant."
+
+prompt_dataset: "data/alpaca_eval_prompts.json"
+temperature: 0.5
+seed: 16
+max_new_tokens: 512
+use_llm_evaluation: true
+concept: "The Eiffel Tower"

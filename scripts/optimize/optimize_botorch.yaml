@@ -1,0 +1,55 @@
+description: "2D example"
+
+llm_name: "meta-llama/Llama-3.1-8B-Instruct"
+sae_path: "andyrdt/saes-llama-3.1-8b-instruct"
+sae_filename_prefix: "resid_post_layer_"
+sae_filename_suffix: "/trainer_1/ae.pt"
+
+features:
+  #  - [3, 4774]
+  #  - [3, 13935]
+  #  - [3, 94572]
+  #  - [3, 88169]
+  #  - [3, 60537]
+  #  - [3, 121375]
+  #  - [7, 56243]
+  #  - [7, 65190]
+  #  - [7, 70732]
+#  - [11, 74457]
+#  - [11, 18894]
+#  - [11, 61463]
+  - [15, 21576]
+  - [19, 93]
+#  - [23, 111898]
+#  - [23, 40788]
+#  - [23, 21334]
+#  - [27, 52459]
+#  - [27, 86068]
+
+steer_prompt: true
+clamp_intensity: true
+system_prompt: "You are a helpful assistant."
+prompt_dataset: "data/alpaca_train_prompts.json"
+
+max_new_tokens: 256
+temperature: 0.5
+repetition_penalty: 1.1
+
+seed: 16
+use_llm_evaluation: true
+concept: "The Eiffel Tower"
+target_log_prob: -1.6
+rep3_weight: 1.4
+
+num_evals_per_call: 1           # Number of evaluations per function call (to reduce variance noise)
+
+max_bound: 1.0                  # Maximum bound for each feature
+num_initial_points: 10          # Number of initial random points, should be around several times the dimension
+
+num_iterations: 100             # Number of BO iterations
+num_sobol_samples: 512
+num_restarts: 60
+raw_samples: 2048
+num_samples_per_iteration: 1    # Number of candidates to sample per BO iteration
+resample_best_interval: 5
+
