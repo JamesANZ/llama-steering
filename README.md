@@ -6,7 +6,7 @@ This projects tentatively mimics the [Golden Gate Claude](https://www.anthropic.
 
 We steered **Llama 3.1 8B Instruct** to become obsessed with the Eiffel Tower using **sparse autoencoders (SAEs)**.
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <img src="banner.png" alt="A Llama photobombing the Eiffel Tower" width="640"/>
 </div>
 
