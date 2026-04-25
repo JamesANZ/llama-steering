@@ -1,4 +1,9 @@
 .idea/
 logs/
 tmp/
-
+.scratch/
+.cache/
+__pycache__/
+*.pyc
+*.bak
+.venv/
